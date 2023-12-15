@@ -1,5 +1,27 @@
 ---
-title: "About"
+title: "De stridbara svenskarna"
 ---
 
-About this site
+Syftet med projektet är att fördjupa förståelsen av Sveriges demokratisering genom att undersöka förändringar
+av det politiska bruket av det offentliga rummet 1820 till 1939. Utgångspunkt för projektet är att offentliga möten
+i Sverige år 1820 var förbjudna, och kunde mötas med militärt våld. Men år 1939 var offentliga möten inte bara
+var tillåtna, utan många människor i Sverige hade då hade kunskap om och tillgång till det offentliga rummet för
+att göra politik. Hur denna process gick till, när de stora förändringar kom, om det fanns geografiska skillnader,
+och vilka grupper som var innovatörer, är inte känt. Det är det vi vill undersöka.
+
+Vårt projekt tar hjälp av digitala metoder (en “AI”) för att leta igenom Kungliga bibliotekets digitaliserade
+dagstidningar efter olika typer av offentliga möten, allt från upplopp till folkmöten till demonstrationståg. Vi vill på
+det sättet komma åt förändring, hur och när det vi kallar för en konfliktrepertoar antog en demokratisk och
+modern form i Sverige. Vi kommer att kunna se saker som folkmötets uppgång och nedgång i tid, valmötets roll
+(eller icke-roll) i det politiska livet och hur demonstrationståget gick från udda fågel till självklarhet.
+Projektet är viktigt av två anledningar. För det första kommer det att fördjupa vår förståelse för hur vanliga
+människor gjort politik och hur detta förändrats, och därigenom kommer vi bidra med kunskap om Sveriges
+demokratisering. För det andra kommer projektet att använda digitala källor, metoder och teknologier på ett
+banbrytande, nytt sätt.
+
+Den nya kunskap projektet skapar är betydelsefullt dels för att den kan fördjupa dagens diskussioner och samtal
+om vår demokrati, dels för att den testar och utvecklar sätt att använda digitala metoder och teknik som kan
+inspirera även andra historiker. Projektet kommer också att mynna ut i en databas som kommer att göras
+allmänt tillgänglig.
+
+[Enligh summary](en/about.qmd)

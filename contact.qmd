@@ -1,0 +1,23 @@
+---
+pagetitle: Kontakt
+page-layout: article
+toc: false
+---
+
+
+
+::: grid
+:::{.g-col-12 .g-col-md-3}
+:::
+:::{.g-col-12 .g-col-md-4}
+### Team
+
+[Send us an Email {{< bi envelope >}}](mailto:Magnus.Olofsson@hist.lu.se)
+:::
+
+:::{.g-col-12 .g-col-md-4}
+### Find us on
+**Github:** [@swinnoproject](https://github.com/contentiousgatherings)
+:::
+
+:::

@@ -1,0 +1,27 @@
+---
+title: Medverkande
+
+listing:
+  id: lists
+  filter-ui: false
+  sort-ui: false
+  contents: members/*qmd
+  type: table
+  grid-columns: 1
+  image-height: 250px
+  image-placeholder: assets/images/logo-en-vr.png
+  fields: [image, subtitle, about]
+  grid-item-align: center
+  sort: sortby
+
+---
+
+:::::{.grid}
+
+::::{.g-col-8}
+
+:::{ #lists }
+:::
+
+::::
+:::::

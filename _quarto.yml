@@ -1,19 +1,43 @@
 project:
   type: website
+  preview:
+    port: 5353
 
 website:
-  title: "Website"
-  navbar:
-    left:
+  title: "Contentious Gatherings"
+  repo-url: https://github.com/ContentiousGatherings/website.git
+  search: false
+
+  sidebar:
+    style: "docked"
+    contents:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: Om projektet
-  footer:
-    -
+      - href: members.qmd
+        text: Medverkande
+      - href: dataset.qmd
+        text: Dataset
+      - href: publications.qmd
+        text: "Publikationer och resultat"
+  page-footer:
+    left: "Copyright 2023, Contentious Gatherings"
+    right:
+      - icon: github
+        href: https://github.com/ContentiousGatherings/issues/new
+      - text: "Kontakta oss"
+        href: contact.qmd
+    center:
+      - text: <a href="https://vr.se"><img src="/assets/images/logo-en-vr.png" height="60px"></img></a>
+      - text: "&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"
+      - text: <a href="https://lu.se"><img src="/assets/images/logo-en-lund.png" height="60px"></img></a>
+
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
