@@ -1,7 +1,7 @@
 ---
 title: "Mathias Johansson"
 subtitle: "Systemutvecklare"
-image: ../assets/images/Mathias.png
+image: /assets/images/Mathias.png
 sortby: 3
 about:
     template: trestles
@@ -28,7 +28,7 @@ about:
     #     href: https://ideas.repec.org/f/pto345.html
 
         - icon: github
-          href: https://github.com/MatJohaDH
+          href: https://github.com/mathjoha
 
     #    linkedin - fill in and uncomment the following two lines.
     #   - icon: linkedin
@@ -49,7 +49,6 @@ toc: false
 ---
 
 :::{.text-bigger}
-
-text
+## Mathias Johansson is a thing that things ?
 
 :::

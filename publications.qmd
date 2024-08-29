@@ -1,0 +1,13 @@
+---
+title: Research outputs
+---
+
+
+Publikationer och forskningsresultat kommer presentaras här.
+
+
+De Stridbara Svenskarna kommer huvudsakligen använda sig av material från
+Kungliga Bibliotekets [tidningsdatabas](https://www.tidningar.kb.se) i
+kombination med allmänt tillgängliga modeller i arbetet för att kartlägga demokratiseringen i Sverige 1820-1939. All kod, alla modeller och alla
+dataset som vi kan dela kommer vi att göra tillgängliga online, här och
+på [GitHub](https://github.com/contentiousgatherings).

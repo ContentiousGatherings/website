@@ -1,10 +1,11 @@
 ---
 title: "Magnus Olofsson"
 subtitle: "PI"
+image: /assets/images/logo-en-vr.png
 # Upload image to assets and replace outline.png with FirstnameLastname.ending
 sortby: 1
 about:
-    template: trestles
+    template: solana
     image-shape: rectangle
     links:
     # Fill in relevant fields and uncomment (remove "#"") text|icon + href rows
@@ -49,6 +50,7 @@ about:
     #     href: mailto: e-mail@domain.se
 
 toc: false
+About: "This text is tes"
 ---
 
 :::{.text-bigger}

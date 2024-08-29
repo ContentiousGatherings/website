@@ -6,11 +6,10 @@ listing:
   filter-ui: false
   sort-ui: false
   contents: members/*qmd
-  type: table
-  grid-columns: 1
+  type: grid
   image-height: 250px
-  image-placeholder: assets/images/logo-en-vr.png
-  fields: [image, subtitle, about]
+  grid-columns: 3
+  fields: [image, title, subtitle]
   grid-item-align: center
   sort: sortby
 
@@ -18,10 +17,4 @@ listing:
 
 :::::{.grid}
 
-::::{.g-col-8}
-
-:::{ #lists }
-:::
-
-::::
 :::::

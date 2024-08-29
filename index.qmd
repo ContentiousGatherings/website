@@ -1,5 +1,11 @@
 ---
 title: "Contentious Gatherings"
----
+about:
+    template: trestles
+    image-shape: rectangle
+    image: /assets/images/cg.png
+listing:
+  id: blog
+  contents: blog/*qmd
 
-Willkommen
+---

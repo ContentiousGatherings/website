@@ -1,6 +1,7 @@
 ---
 title: "Andrés Brink Pinto"
 subtitle: "Forskare"
+image: /assets/images/Andres.jpg
 # Upload image to assets and replace outline.png with FirstnameLastname.ending
 sortby: 2
 about:
