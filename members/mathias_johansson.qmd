@@ -10,7 +10,7 @@ about:
     # Fill in relevant fields and uncomment (remove "#"") text|icon + href rows
     #    personal website - fill in and uncomment the following two lines.
       # - icon: person-fill
-      #   href: https://swedishinnovationdata.se
+      #   href:
 
         - text: "{{< ai orcid >}}"
           href: https://orcid.org/0000-0002-3338-0551
@@ -48,7 +48,12 @@ about:
 toc: false
 ---
 
-:::{.text-bigger}
-## Mathias Johansson is a thing that things ?
+::: { style="font-size: 125%;" }
+
+As a Systems Developer at the Department of Arts and Cultural Sciences I working at different Digital Humanities projects (primarily History), at different capacities.
+
+
+In *Contentious Gatherings* I am responsible for developing, testing, running and maintaining the systems, databases and Machine Learning models that we use to collect, process and analyse data.
+
 
 :::
