@@ -26,8 +26,10 @@ website:
       [![](/assets/images/logo-en-vr.png)](https://vr.se)
 
     center:
-      - text: Copyright 2023, Contentious Gatherings
+      - text: Copyright 2024, Contentious Gatherings
       - icon: github
+        href: https://github.com/ContentiousGatherings/
+      - text: Report issue
         href: https://github.com/ContentiousGatherings/issues/new
       - text: "Kontakt"
         href: contact.qmd
