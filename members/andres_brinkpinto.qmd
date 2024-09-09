@@ -1,6 +1,6 @@
 ---
 title: "Andrés Brink Pinto"
-subtitle: "Forskare"
+subtitle: "Associate professor"
 image: /assets/images/Andres.jpg
 # Upload image to assets and replace outline.png with FirstnameLastname.ending
 sortby: 2
@@ -11,11 +11,11 @@ about:
     # Fill in relevant fields and uncomment (remove "#"") text|icon + href rows
     #    personal website - fill in and uncomment the following two lines.
       - icon: person-fill
-        href: https://swedishinnovationdata.se
+        href:  https://portal.research.lu.se/sv/persons/andrés-brink-pinto
 
     #    orcid - fill in and uncomment the following two lines.
-    #   - text: "{{< ai orcid >}}"
-    #     href: https://orcid.org/
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-1505-9289
 
     #    google scholar - fill in and uncomment the following two lines.
     #   - icon: mortarboard-fill
@@ -52,10 +52,14 @@ about:
 toc: false
 ---
 
-:::{.text-bigger}
+::: { style="font-size: 125%;" }
 
-Concise description of research interests and role in SWINNO -- remove the
-preceeding ":::{X}" and succeeding ":::" if the text is longer than a few short
-sentences.
+I primarily study urban histories of gender, sexuality and social movements.
+Among other things, militant antifascism in the Öresund region c. 1985-2013,
+youth riots in Stockholm c. 1948-1987 and the policing of homosexuality
+in Stockholm in the 1950s.
+
+In this project work with the theoretical frame, historical analysis of
+the database and qualitative case studies of urban forms of collective actions. 
 
 :::
