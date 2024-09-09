@@ -5,17 +5,20 @@ image: /assets/images/Magnus.jpg
 # Upload image to assets and replace outline.png with FirstnameLastname.ending
 sortby: 1
 about:
-    template: solana
+    template: trestles
     image-shape: rectangle
     links:
     # Fill in relevant fields and uncomment (remove "#"") text|icon + href rows
     #    personal website - fill in and uncomment the following two lines.
       - icon: person-fill
-        href: https://swedishinnovationdata.se
+        href: https://www.hist.lu.se/person/MagnusOlofsson/
 
-    #    orcid - fill in and uncomment the following two lines.
-    #   - text: "{{< ai orcid >}}"
-    #     href: https://orcid.org/
+      - icon: person-fill
+        href: https://portal.research.lu.se/sv/persons/magnus-olofsson
+
+      #  orcid - fill in and uncomment the following two lines.
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-4099-4068
 
     #    google scholar - fill in and uncomment the following two lines.
     #   - icon: mortarboard-fill
@@ -45,15 +48,22 @@ about:
     #   - icon: mastodon
     #     href: url
 
-    #    e-mail - fill in and uncomment the following two lines.
-    #   - text: "{{< bi envelope-fill >}}"
-    #     href: mailto: e-mail@domain.se
+      #  e-mail - fill in and uncomment the following two lines.
+      - text: "{{< bi envelope-fill >}}"
+        href: mailto:magnus.olofsson@hist.lu.se
 
 toc: false
-About: "This text is tes"
 ---
 
-:::{.text-bigger}
 
+::: { style="font-size: 125%;" }
 
+I am a historian with a PhD from Lund university. My main research topics are
+political radicalism, popular protest, and repertoires of contention in
+Swedish 19th and early 20th century. I’m particularly interested in
+understanding Sweden’s late democratization and the birth of modern,
+democratic political culture in Sweden.
+
+I am the PI of The Contentious Swedes project.
+ 
 :::
