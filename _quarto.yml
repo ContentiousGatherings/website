@@ -19,8 +19,7 @@ website:
         text: Medverkande
       - href: publications.qmd
         text: "Publikationer"
-      - href: dataset.qmd
-        text: Dataset
+
   page-footer:
     left: |
       [![](/assets/images/logo-en-vr.png)](https://vr.se)
