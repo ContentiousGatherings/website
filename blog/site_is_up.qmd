@@ -1,5 +1,0 @@
----
-title: Project start
-author: Mathias Johansson
-date: 2024-05-21
----

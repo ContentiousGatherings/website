@@ -1,0 +1,33 @@
+---
+title: Projektstart!
+author: Magnus Olofsson
+date: 2024-09-11
+---
+
+
+**Så är vi igång på allvar då**, med vårt forskningsprojekt _De stridbara svenskarna: Konfliktrepertoarer och demokratisering i Sverige, 1820–1939_ (VR2023-01365). Projektet syftar till att fördjupa förståelsen av Sveriges demokratisering genom att undersöka förändringar av det politiska bruket av det offentliga rummet. Kort sagt vill vi kartlägga och analysera den process varunder människor i Sverige lärde sig att framföra politiska krav på olika typer av offentliga möten som folkmöten, valmöten och demonstrationståg och samtidigt se vad som hände med äldre, etablerade sätt att framföra politiska krav på som hungerkravaller och beslagupplopp.
+
+
+I projektet kombinerar vi ett sedan länge etablerat arbetssätt inom den
+(historiska) sociologin, att kartlägga stora mängder protesthändelser som
+nämns i tidningar och föra in dem i databaser, med nya digitalhistoriska
+arbetssätt: Istället för att som av hävd anställa ett stort antal assistenter
+som läser och kodar ett urval av dagstidningar för att hitta protesthändelser
+kommer vi att skrapa (eller fjärrläsa om man så vill) hela Svenska tidningar,
+över sju miljoner tidningssidor, som vi sedan tränar upp en modell för
+djupinlärning för att fånga in det vi letar efter. Datan förs sedan över till
+en databas, vilken kommer att ligga till grund för våra analyser av
+förändringen av den svenska konfliktrepertoaren under vår undersökningsperiod.
+
+Så här i början av projektet fokuserar vårt arbete på
+1) det traditionella (historiskt-)sociologiska arbetet med söksträng och kodbok,
+2) det nya digitalhistoriska arbetet med att sätta upp och träna upp vår modell.
+
+Det hela handlar i mångt och mycket att se till att vi hittar så mycket
+som möjligt av det vi vill hitta (exempelvis demonstrationståg) och så lite som
+möjligt av det vi inte vill hitta (exempelvis demonstrationer av tröskverk).
+
+Som det ser ut just nu så kommer vi här under hösten göra en pilotstudie av
+fenomenet ”folkmöten” för att testa hela vårt arbetsflöde och träna vår modell.
+Vi får se hur det går. Måhända kommer nästa blogginlägg handla om projektets
+barnsjukdomar.
