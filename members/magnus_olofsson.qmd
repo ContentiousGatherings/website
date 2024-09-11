@@ -50,7 +50,7 @@ about:
 
       #  e-mail - fill in and uncomment the following two lines.
       - text: "{{< bi envelope-fill >}}"
-        href: mailto:magnus.olofsson@hist.lu.se
+        href: mailto:andres.brink_pinto@genus.lu.se?subject=ContentiousGatherings
 
 toc: false
 ---

@@ -1,5 +1,6 @@
 ---
 title: "The Contentious Swedes"
+subtitle: VR2023-01365
 ---
 
 The purpose of the project is to deepen the understanding of Sweden's democratization by examining changes in

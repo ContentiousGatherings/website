@@ -1,5 +1,6 @@
 ---
 title: "De stridbara svenskarna"
+subtitle: VR2023-01365
 ---
 
 Syftet med projektet är att fördjupa förståelsen av Sveriges demokratisering genom att undersöka förändringar

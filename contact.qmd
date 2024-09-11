@@ -4,19 +4,8 @@ page-layout: article
 toc: false
 ---
 
-
-
-<!-- ::: grid
-
-::::{.g-col-12 .g-col-md-4} -->
-
-[E-post {{< bi envelope >}}](mailto:Magnus.Olofsson@hist.lu.se)
-
+[E-post {{< bi envelope >}}](mailto:Magnus.Olofsson@hist.lu.se?subject=ContentiousGatherings)
 
 [**Lund University Research Portal** De Stridbara Svenskarna](https://portal.research.lu.se/sv/projects/de-stridbara-svenskarna-konfliktrepertoarer-och-demokratisering-i)
 
 [**Github:** @contentiousgatherings](https://github.com/contentiousgatherings)
-<!-- ::::
-
-
-::: -->
