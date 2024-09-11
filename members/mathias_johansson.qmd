@@ -1,7 +1,7 @@
 ---
 title: "Mathias Johansson"
 subtitle: "Systemutvecklare"
-image: /assets/images/Mathias.png
+image: ../assets/images/Mathias.png
 sortby: 3
 about:
     template: trestles
