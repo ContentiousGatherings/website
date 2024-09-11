@@ -4,6 +4,6 @@ subtitle: Konfliktrepertoarer och demokratisering i Sverige, 1820–1939
 listing:
   id: blog
   contents: blog/*qmd
-  image-placeholder: /assets/images/cg.png
+  image-placeholder: ./assets/images/cg.png
   image-height: 140px
 ---
