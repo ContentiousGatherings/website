@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "blog/project_start.html",
-    "href": "blog/project_start.html",
-    "title": "Projektstart!",
-    "section": "",
-    "text": "Så är vi igång på allvar då, med vårt forskningsprojekt De stridbara svenskarna: Konfliktrepertoarer och demokratisering i Sverige, 1820–1939 (VR2023-01365). Projektet syftar till att fördjupa förståelsen av Sveriges demokratisering genom att undersöka förändringar av det politiska bruket av det offentliga rummet. Kort sagt vill vi kartlägga och analysera den process varunder människor i Sverige lärde sig att framföra politiska krav på olika typer av offentliga möten som folkmöten, valmöten och demonstrationståg och samtidigt se vad som hände med äldre, etablerade sätt att framföra politiska krav på som hungerkravaller och beslagupplopp.\nI projektet kombinerar vi ett sedan länge etablerat arbetssätt inom den (historiska) sociologin, att kartlägga stora mängder protesthändelser som nämns i tidningar och föra in dem i databaser, med nya digitalhistoriska arbetssätt: Istället för att som av hävd anställa ett stort antal assistenter som läser och kodar ett urval av dagstidningar för att hitta protesthändelser kommer vi att skrapa (eller fjärrläsa om man så vill) hela Svenska tidningar, över sju miljoner tidningssidor, som vi sedan tränar upp en modell för djupinlärning för att fånga in det vi letar efter. Datan förs sedan över till en databas, vilken kommer att ligga till grund för våra analyser av förändringen av den svenska konfliktrepertoaren under vår undersökningsperiod.\nSå här i början av projektet fokuserar vårt arbete på 1) det traditionella (historiskt-)sociologiska arbetet med söksträng och kodbok, 2) det nya digitalhistoriska arbetet med att sätta upp och träna upp vår modell.\nDet hela handlar i mångt och mycket att se till att vi hittar så mycket som möjligt av det vi vill hitta (exempelvis demonstrationståg) och så lite som möjligt av det vi inte vill hitta (exempelvis demonstrationer av tröskverk).\nSom det ser ut just nu så kommer vi här under hösten göra en pilotstudie av fenomenet ”folkmöten” för att testa hela vårt arbetsflöde och träna vår modell. Vi får se hur det går. Måhända kommer nästa blogginlägg handla om projektets barnsjukdomar."
-  },
-  {
     "objectID": "members/andres_brinkpinto.html",
     "href": "members/andres_brinkpinto.html",
     "title": "Andrés Brink Pinto",
     "section": "",
     "text": "I primarily study urban histories of gender, sexuality and social movements. Among other things, militant antifascism in the Öresund region c. 1985-2013, youth riots in Stockholm c. 1948-1987 and the policing of homosexuality in Stockholm in the 1950s.\nIn this project work with the theoretical frame, historical analysis of the database and qualitative case studies of urban forms of collective actions."
+  },
+  {
+    "objectID": "members/magnus_olofsson.html",
+    "href": "members/magnus_olofsson.html",
+    "title": "Magnus Olofsson",
+    "section": "",
+    "text": "I am a historian with a PhD from Lund university. My main research topics are political radicalism, popular protest, and repertoires of contention in Swedish 19th and early 20th century. I’m particularly interested in understanding Sweden’s late democratization and the birth of modern, democratic political culture in Sweden.\nI am the PI of The Contentious Swedes project."
   },
   {
     "objectID": "om.html",
@@ -22,6 +22,23 @@
     "crumbs": [
       "Om projektet"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Contentious Gatherings",
+    "section": "",
+    "text": "Projektstart!\n\n\n\n\n\n\n\n\n\n\n\nSep 11, 2024\n\n\nMagnus Olofsson\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "blog/project_start.html",
+    "href": "blog/project_start.html",
+    "title": "Projektstart!",
+    "section": "",
+    "text": "Så är vi igång på allvar då, med vårt forskningsprojekt De stridbara svenskarna: Konfliktrepertoarer och demokratisering i Sverige, 1820–1939 (VR2023-01365). Projektet syftar till att fördjupa förståelsen av Sveriges demokratisering genom att undersöka förändringar av det politiska bruket av det offentliga rummet. Kort sagt vill vi kartlägga och analysera den process varunder människor i Sverige lärde sig att framföra politiska krav på olika typer av offentliga möten som folkmöten, valmöten och demonstrationståg och samtidigt se vad som hände med äldre, etablerade sätt att framföra politiska krav på som hungerkravaller och beslagupplopp.\nI projektet kombinerar vi ett sedan länge etablerat arbetssätt inom den (historiska) sociologin, att kartlägga stora mängder protesthändelser som nämns i tidningar och föra in dem i databaser, med nya digitalhistoriska arbetssätt: Istället för att som av hävd anställa ett stort antal assistenter som läser och kodar ett urval av dagstidningar för att hitta protesthändelser kommer vi att skrapa (eller fjärrläsa om man så vill) hela Svenska tidningar, över sju miljoner tidningssidor, som vi sedan tränar upp en modell för djupinlärning för att fånga in det vi letar efter. Datan förs sedan över till en databas, vilken kommer att ligga till grund för våra analyser av förändringen av den svenska konfliktrepertoaren under vår undersökningsperiod.\nSå här i början av projektet fokuserar vårt arbete på 1) det traditionella (historiskt-)sociologiska arbetet med söksträng och kodbok, 2) det nya digitalhistoriska arbetet med att sätta upp och träna upp vår modell.\nDet hela handlar i mångt och mycket att se till att vi hittar så mycket som möjligt av det vi vill hitta (exempelvis demonstrationståg) och så lite som möjligt av det vi inte vill hitta (exempelvis demonstrationer av tröskverk).\nSom det ser ut just nu så kommer vi här under hösten göra en pilotstudie av fenomenet ”folkmöten” för att testa hela vårt arbetsflöde och träna vår modell. Vi får se hur det går. Måhända kommer nästa blogginlägg handla om projektets barnsjukdomar."
   },
   {
     "objectID": "members.html",
@@ -44,35 +61,18 @@
     ]
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Kontakt",
+    "section": "",
+    "text": "E-post {{&lt; bi envelope &gt;}}\nLund University Research Portal De Stridbara Svenskarna\nGithub: @contentiousgatherings"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "The Contentious Swedes",
     "section": "",
     "text": "The purpose of the project is to deepen the understanding of Sweden’s democratization by examining changes in the political use of public space from 1820 to 1939. The project aims to shed light on the political use of contentious gatherings such as public meetings, election meetings, demonstration marches in public space. The starting point is that public meetings in Sweden in 1820 were forbidden, while they in 1939 not only were permitted, but also that most people then had knowledge of and access to the public space to make politics.\nSomething had changed, what we call the repertoire of contention had assumed a modern, democratic, form. The project is carried out by two researchers and a system developer. It will run for four years. We will work with the Swedish National Library’s corpus of digitized daily newspapers as a source for occurrences of the public, political meetings we are interested in. The task of detecting and extracting data on these events will be performed by a language model (BERT). The data will be entered into a database which will be analyzed quantitatively to track changes in the repertoire of contention, both in overall terms, and in terms of which political groups adopted different parts of the repertoire when.\nThe project is important as it 1) deepens our understanding of how Swedes made politics before, during and after Sweden’s democratization, and 2) it uses digital sources, methods and technologies in a pioneering, new way.\nSvenska"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Kontakt",
-    "section": "",
-    "text": "E-post \nLund University Research Portal De Stridbara Svenskarna\nGithub: @contentiousgatherings"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Contentious Gatherings",
-    "section": "",
-    "text": "Projektstart!\n\n\n\n\n\n\n\n\n\n\n\nSep 11, 2024\n\n\nMagnus Olofsson\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "members/magnus_olofsson.html",
-    "href": "members/magnus_olofsson.html",
-    "title": "Magnus Olofsson",
-    "section": "",
-    "text": "I am a historian with a PhD from Lund university. My main research topics are political radicalism, popular protest, and repertoires of contention in Swedish 19th and early 20th century. I’m particularly interested in understanding Sweden’s late democratization and the birth of modern, democratic political culture in Sweden.\nI am the PI of The Contentious Swedes project."
   },
   {
     "objectID": "members/mathias_johansson.html",
