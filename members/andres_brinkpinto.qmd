@@ -1,0 +1,65 @@
+---
+title: "Andrés Brink Pinto"
+subtitle: "Associate professor"
+image: /assets/images/Andres.jpg
+# Upload image to assets and replace outline.png with FirstnameLastname.ending
+sortby: 2
+about:
+    template: trestles
+    image-shape: rectangle
+    links:
+    # Fill in relevant fields and uncomment (remove "#"") text|icon + href rows
+    #    personal website - fill in and uncomment the following two lines.
+      - icon: person-fill
+        href:  https://portal.research.lu.se/sv/persons/andrés-brink-pinto
+
+    #    orcid - fill in and uncomment the following two lines.
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-1505-9289
+
+    #    google scholar - fill in and uncomment the following two lines.
+    #   - icon: mortarboard-fill
+    #     href: https://scholar.google.com/
+
+    #    researchgate - fill in and uncomment the following two lines.
+    #   - text: "{{< ai researchgate >}}"
+    #     href: https://www.researchgate.net/profile/Anders-Hylmoe
+
+    #    ideas - fill in and uncomment the following two lines.
+    #   - text: "{{< ai ideas-repec >}}"
+    #     href: https://ideas.repec.org/f/pto345.html
+
+    #    github - fill in and uncomment the following two lines.
+    #   - icon: github
+    #     href: https://github.com/
+
+    #    linkedin - fill in and uncomment the following two lines.
+    #   - icon: linkedin
+    #     href: https://www.linkedin.com/in/
+
+    #    twitter - fill in and uncomment the following two lines.
+    #   - icon: twitter
+    #     href: https://twitter.com/
+
+    #    mastodon - fill in and uncomment the following two lines.
+    #   - icon: mastodon
+    #     href: url
+
+    #    e-mail - fill in and uncomment the following two lines.
+      - text: "{{< bi envelope-fill >}}"
+        href: mailto:Magnus.Olofsson@hist.lu.se?subject=ContentiousGatherings
+
+toc: false
+---
+
+::: { style="font-size: 125%;" }
+
+I primarily study urban histories of gender, sexuality and social movements.
+Among other things, militant antifascism in the Öresund region c. 1985-2013,
+youth riots in Stockholm c. 1948-1987 and the policing of homosexuality
+in Stockholm in the 1950s.
+
+In this project work with the theoretical frame, historical analysis of
+the database and qualitative case studies of urban forms of collective actions. 
+
+:::

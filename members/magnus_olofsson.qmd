@@ -1,0 +1,69 @@
+---
+title: "Magnus Olofsson"
+subtitle: "PI"
+image: /assets/images/Magnus.jpg
+# Upload image to assets and replace outline.png with FirstnameLastname.ending
+sortby: 1
+about:
+    template: trestles
+    image-shape: rectangle
+    links:
+    # Fill in relevant fields and uncomment (remove "#"") text|icon + href rows
+    #    personal website - fill in and uncomment the following two lines.
+      - icon: person-fill
+        href: https://www.hist.lu.se/person/MagnusOlofsson/
+
+      - icon: person-fill
+        href: https://portal.research.lu.se/sv/persons/magnus-olofsson
+
+      #  orcid - fill in and uncomment the following two lines.
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-4099-4068
+
+    #    google scholar - fill in and uncomment the following two lines.
+    #   - icon: mortarboard-fill
+    #     href: https://scholar.google.com/
+
+    #    researchgate - fill in and uncomment the following two lines.
+    #   - text: "{{< ai researchgate >}}"
+    #     href: https://www.researchgate.net/profile/Anders-Hylmoe
+
+    #    ideas - fill in and uncomment the following two lines.
+    #   - text: "{{< ai ideas-repec >}}"
+    #     href: https://ideas.repec.org/f/pto345.html
+
+    #    github - fill in and uncomment the following two lines.
+    #   - icon: github
+    #     href: https://github.com/
+
+    #    linkedin - fill in and uncomment the following two lines.
+    #   - icon: linkedin
+    #     href: https://www.linkedin.com/in/
+
+    #    twitter - fill in and uncomment the following two lines.
+    #   - icon: twitter
+    #     href: https://twitter.com/
+
+    #    mastodon - fill in and uncomment the following two lines.
+    #   - icon: mastodon
+    #     href: url
+
+      #  e-mail - fill in and uncomment the following two lines.
+      - text: "{{< bi envelope-fill >}}"
+        href: mailto:andres.brink_pinto@genus.lu.se?subject=ContentiousGatherings
+
+toc: false
+---
+
+
+::: { style="font-size: 125%;" }
+
+I am a historian with a PhD from Lund university. My main research topics are
+political radicalism, popular protest, and repertoires of contention in
+Swedish 19th and early 20th century. I’m particularly interested in
+understanding Sweden’s late democratization and the birth of modern,
+democratic political culture in Sweden.
+
+I am the PI of The Contentious Swedes project.
+ 
+:::
