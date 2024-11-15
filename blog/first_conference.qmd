@@ -1,0 +1,31 @@
+---
+title: De Stridbara Svenskarnas Första Konferens!
+author: Magnus Olofsson
+date: 2024-11-15
+image: /assets/images/2024_DH6SWE_kuben.jpg
+---
+
+**Den 7 och 8 november 2024 hölls [6th Digital History in Sweden](
+https://web.archive.org/web/20240622231813/https://lnu.se/en/meet-linnaeus-university/current/events/2024/conferences/6th-digital-history-in-sweden-conference-unboxing-digital-methods-practices-and-public-engagement/
+    )** konferensen på
+Linnéuniversitetet i Växjö. Det var alltså sjätte gången digitalhistoriskt
+intresserade historiker (och andra) i Sverige samlades till en konferens för
+att utbyta erfarenheter och nätverka. Spännvidden mellan presentationerna var
+stor, och täckte allt från att använda generativ AI i undervisningen till
+digital medborgarforskning, från digitala arkiv till digitala metoder i
+forskningen.
+
+Från de Stridbara svenskarna deltog jag [(Magnus) och Mathias](/members)
+tillsammans med [Måns](https://www.gu.se/en/about/find-staff/manslundstedt)
+från det snarlika projektet Från politisk apati till demokrati som vi sedan
+i våras samarbetar med. Vi presenterade vårt pågående arbete under titeln
+“Repertoires of contention and democratization in Sweden. Early challenges
+and results”. Vi berättade om projektets utgångspunkter, arbetet med vår
+kodbok (i sociologisk mening, inte programmeringsmening) samt om våra [tidiga
+experiment](/assets/images/2024_DH6SWE_result.png) med en ny Llama3-baserad pipeline.
+
+
+Nästa konferens för De Stridbara svenskarna blir [European Social Science
+History Conference](
+https://event.esshc2025.exordo.com/session/328/contentious-politics-studies-protest-event-analysis-and-the-digital-challenge
+) som går i Leiden i slutet av mars 2025.
