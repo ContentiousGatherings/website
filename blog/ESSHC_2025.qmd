@@ -1,0 +1,38 @@
+---
+title: Stridbara Svenskar i Leiden
+author: Magnus Olofsson
+date: 2025-04-09
+image: /assets/images/2025_ESSHC.jpg
+---
+
+Den 26 till 29 mars 2025 hölls [European Social Science History Conference
+(ESSHC)](https://esshc.iisg.amsterdam/en/esshc-conference-2025) på
+universitetet i Leiden i Nederländerna. Konferensen har gått vartannat år sedan
+1996 (dock fick 2020 års konferens senareläggas ett år på grund av
+Covid-epidemien) och är sedan länge en av de största historiska konferenserna i
+Europa.
+
+De Stridbara svenskarna arrangerade en välbesökt session betitlad “Contentious
+Politics Studies, Protest Event Analysis, and the Digital Challenge”. Förutom
+vår [egen presentation](/assets/presentations/2025_CG_at_ESSHC.pdf), som genomfördes av
+[Magnus](https://www.contentiousgatherings.se/members) och
+[Måns](https://www.gu.se/en/about/find-staff/manslundstedt), presenterade
+[Marten Düring](https://www.c2dh.uni.lu/people/marten-during) (som ingår i vår
+vetenskapliga referensgrupp),
+[Jens Aurich](https://iisg.amsterdam/en/about/staff/Jens-Aurich) och [Taiago
+Carvalho](https://iisg.amsterdam/en/about/staff/Jens-Aurich) forskning som
+kombinerar studiet av sociala rörelser med digitala forskningsmetoder, allt
+från att använda Python-script för att skrubba Facebook-sidor för att förstå
+hur sociala rörelser agerar till utmaningar med bristfällig OCR-scanning av
+tidningssidor till digitala verktyg för annotering.
+
+En titt på konferensprogrammet ger vid handen att vårt projekt är i gott
+sällskap. Att använda digitala verktyg för att fjärrläsa stora mängder
+historisk text för att lösa vetenskapliga problem är något som är på frammarsch
+inom historievetenskapen, totalt hölls åtta sessioner på konferens på temat
+“spatial- och digital historia”. Sammantaget en rätt liten andel av alla
+sessioner på konferensen, men en som lär växa till nästa gång.
+
+På tal om nästa gång, så kommer ESSHC 2027 att gå i Lyon. Vi räknar med att
+vara där, och vi hoppas att vi då inte bara ska prata om utmaningarna med
+digital historia, utan också om våra forskningsresultat.

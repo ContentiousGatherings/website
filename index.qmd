@@ -6,4 +6,6 @@ listing:
   contents: blog/*qmd
   image-placeholder: ./assets/images/cg.png
   image-height: 140px
+  sort: date desc
+  date-format: iso
 ---
