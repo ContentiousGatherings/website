@@ -1,18 +1,18 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/blog/ESSHC_2025.html",
-      "/blog/first_conference.html",
-      "/blog/project_start.html"
-    ]
-  },
-  {
     "listing": "/members.html",
     "items": [
       "/members/magnus_olofsson.html",
       "/members/andres_brinkpinto.html",
       "/members/mathias_johansson.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/blog/ESSHC_2025.html",
+      "/blog/first_conference.html",
+      "/blog/project_start.html"
     ]
   }
 ]
