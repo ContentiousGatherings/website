@@ -1,0 +1,21 @@
+---
+title: Digitalisering av Socialdemokraten
+author:  Andrés Brink Pinto
+date: 2025-04-26
+image: /assets/images/hits_socialdemokraten.png
+---
+
+Fram till 1906 är i princip alla svenska dagstidningar digitiserade och fritt
+tillgängliga via Kungliga bibliotekets databas svenska tidningar. Från 1907 är
+digitiseringen dock mycket mer fläckvis, och eftersom KB saknar medel för en
+mer systematisk digitisering är det också ganska ojämnt mellan vilka typer av
+tidningar som finns tillgängliga. För vårt projekt är det en stor utmaning att
+Social-Demokraten inte funnits tillgänglig från 1907 och framåt. Tidningen var
+en av de viktigaste – om inte den viktigaste – socialdemokratiska
+pressrösterna. Därför har vi under året sökt finansiering för att kunna göra
+dagstidningen tillgänglig. Tack vare ett generöst bidrag från [Åke Wibergs
+stiftelse](https://ake-wiberg.se/) har vi nu kunnat finansiera digitisering av
+perioden 1907–1912. Detta är inte bara viktigt för vårt projekt, utan vi bidrar
+nu till att tillgängliggöra denna centrala tidning för alla.
+
+[Socialdemokraten i tidningar.kb.se](https://tidningar.kb.se/search?isPartOf.%40id=https%3A%2F%2Flibris.kb.se%2F2ldv2p8d3m2rf4m%23it&_sort=datePublished&from=1907-01-01&to=1912-12-31)
