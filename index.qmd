@@ -8,4 +8,5 @@ listing:
   image-height: 140px
   sort: date desc
   date-format: iso
+  feed: true
 ---
