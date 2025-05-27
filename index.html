@@ -114,7 +114,7 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-</head>
+<link rel="alternate" type="application/rss+xml" title="Contentious Gatherings" href="index.xml" data-external="1"></head>
 
 <body class="nav-sidebar docked quarto-light">
 
@@ -203,7 +203,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-blog">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1746835200000" data-listing-file-modified-sort="1747768621339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="353">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1746835200000" data-listing-file-modified-sort="1748332235976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="353">
 <div class="thumbnail"><a href="./blog/SU_2025.html" class="no-external">
 
 <img loading="lazy" src="./assets/images/2025_Stockholm.png" class="thumbnail-image" style="height: 140px;">
@@ -228,7 +228,7 @@ Magnus Olofsson
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1745625600000" data-listing-file-modified-sort="1747768621339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1745625600000" data-listing-file-modified-sort="1748332235976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
 <div class="thumbnail"><a href="./blog/socialdemokraten.html" class="no-external">
 
 <img loading="lazy" src="./assets/images/hits_socialdemokraten.png" class="thumbnail-image" style="height: 140px;">
@@ -253,7 +253,7 @@ Andrés Brink Pinto
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1744156800000" data-listing-file-modified-sort="1747768621339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="210">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1744156800000" data-listing-file-modified-sort="1748332235975" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="210">
 <div class="thumbnail"><a href="./blog/ESSHC_2025.html" class="no-external">
 
 <img loading="lazy" src="./assets/images/2025_ESSHC.jpg" class="thumbnail-image" style="height: 140px;">
@@ -278,7 +278,7 @@ Magnus Olofsson
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1731628800000" data-listing-file-modified-sort="1747768621339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="144">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1731628800000" data-listing-file-modified-sort="1748332235976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="144">
 <div class="thumbnail"><a href="./blog/first_conference.html" class="no-external">
 
 <img loading="lazy" src="./assets/images/2024_DH6SWE_kuben.jpg" class="thumbnail-image" style="height: 140px;">
@@ -303,7 +303,7 @@ Magnus Olofsson
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1726012800000" data-listing-file-modified-sort="1747768621339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1726012800000" data-listing-file-modified-sort="1748332235976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
 <div class="thumbnail"><a href="./blog/project_start.html" class="no-external">
 
 <p class="card-img-top"><img src="./assets/images/cg.png" style="height: 140px;"  class="thumbnail-image card-img"/></p>
@@ -403,7 +403,7 @@ Magnus Olofsson
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/www\.contentiousgatherings\.se");
+        var filterRegex = new RegExp("https:\/\/www\.contentiousgatherings\.se\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -751,6 +751,12 @@ Magnus Olofsson
     <a class="nav-link" href="https://github.com/ContentiousGatherings/website/issues/new">
 <p>Report issue</p>
 </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml">
+      <i class="bi bi-rss" role="img">
+</i> 
+    </a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="./contact.html">

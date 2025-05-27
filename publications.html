@@ -215,7 +215,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/www\.contentiousgatherings\.se");
+        var filterRegex = new RegExp("https:\/\/www\.contentiousgatherings\.se\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -563,6 +563,12 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="https://github.com/ContentiousGatherings/website/issues/new">
 <p>Report issue</p>
 </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml">
+      <i class="bi bi-rss" role="img">
+</i> 
+    </a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="./contact.html">
