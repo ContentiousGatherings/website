@@ -9,6 +9,7 @@ execute:
 
 website:
   title: "Contentious Gatherings"
+  site-url: https://www.contentiousgatherings.se/
   repo-url: https://github.com/ContentiousGatherings/website.git
   search: false
 
@@ -34,6 +35,8 @@ website:
         href: https://github.com/ContentiousGatherings/
       - text: Report issue
         href: https://github.com/ContentiousGatherings/website/issues/new
+      - icon: rss
+        href: index.xml
       - text: "Kontakt"
         href: contact.qmd
 
