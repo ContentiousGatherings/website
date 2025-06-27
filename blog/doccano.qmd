@@ -5,8 +5,6 @@ date: 2025-06-27
 image: /assets/images/article-excerpt.svg
 ---
 
-
-
 Enligt den beprövade maskinlärningstraditionen förbereder vi oss nu intensivt
 för att kunna skörda frukterna av automatisering: vi annoterar data! Mer
 specifikt arbetar vi med att reda ut potentiella oklarheter i vår kodbok och
@@ -17,7 +15,6 @@ mening) är kvaliteten på OCR-läsningen – som i värsta fall producerar skö
 såsom texten till höger.
 
 ::: {.column-margin}
-<!-- ![this](/assets/images/article-excerpt.svg){height=500px} -->
 
 <img src="/assets/images/article-excerpt.svg"
 height="500px"
