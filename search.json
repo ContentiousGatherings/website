@@ -1,12 +1,12 @@
 [
   {
-    "objectID": "om.html",
-    "href": "om.html",
-    "title": "De stridbara svenskarna",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Research outputs",
     "section": "",
-    "text": "Syftet med projektet är att fördjupa förståelsen av Sveriges demokratisering genom att undersöka förändringar av det politiska bruket av det offentliga rummet 1820 till 1939. Utgångspunkt för projektet är att offentliga möten i Sverige år 1820 var förbjudna, och kunde mötas med militärt våld. Men år 1939 var offentliga möten inte bara var tillåtna, utan många människor i Sverige hade då hade kunskap om och tillgång till det offentliga rummet för att göra politik. Hur denna process gick till, när de stora förändringar kom, om det fanns geografiska skillnader, och vilka grupper som var innovatörer, är inte känt. Det är det vi vill undersöka.\nVårt projekt tar hjälp av digitala metoder (en “AI”) för att leta igenom Kungliga bibliotekets digitaliserade dagstidningar efter olika typer av offentliga möten, allt från upplopp till folkmöten till demonstrationståg. Vi vill på det sättet komma åt förändring, hur och när det vi kallar för en konfliktrepertoar antog en demokratisk och modern form i Sverige. Vi kommer att kunna se saker som folkmötets uppgång och nedgång i tid, valmötets roll (eller icke-roll) i det politiska livet och hur demonstrationståget gick från udda fågel till självklarhet. Projektet är viktigt av två anledningar. För det första kommer det att fördjupa vår förståelse för hur vanliga människor gjort politik och hur detta förändrats, och därigenom kommer vi bidra med kunskap om Sveriges demokratisering. För det andra kommer projektet att använda digitala källor, metoder och teknologier på ett banbrytande, nytt sätt.\nDen nya kunskap projektet skapar är betydelsefullt dels för att den kan fördjupa dagens diskussioner och samtal om vår demokrati, dels för att den testar och utvecklar sätt att använda digitala metoder och teknik som kan inspirera även andra historiker. Projektet kommer också att mynna ut i en databas som kommer att göras allmänt tillgänglig.\nEnligh summary",
+    "text": "Publikationer och forskningsresultat kommer presentaras här.\nDe Stridbara Svenskarna kommer huvudsakligen använda sig av material från Kungliga Bibliotekets tidningsdatabas i kombination med allmänt tillgängliga modeller i arbetet för att kartlägga demokratiseringen i Sverige 1820-1939.\nAll kod, alla modeller och alla dataset som vi kan dela kommer dyka upp här och på GitHub.",
     "crumbs": [
-      "Om projektet"
+      "Publikationer"
     ]
   },
   {
@@ -14,38 +14,41 @@
     "href": "index.html",
     "title": "Contentious Gatherings",
     "section": "",
-    "text": "Stridbara Svenskar i Stockholm\n\n\n\n\n\n\n\n\n2025-05-10\n\n\nMagnus Olofsson\n\n\n\n\n\n\n\n\n\n\n\n\nDigitalisering av Socialdemokraten\n\n\n\n\n\n\n\n\n2025-04-26\n\n\nAndrés Brink Pinto\n\n\n\n\n\n\n\n\n\n\n\n\nStridbara Svenskar i Leiden\n\n\n\n\n\n\n\n\n2025-04-09\n\n\nMagnus Olofsson\n\n\n\n\n\n\n\n\n\n\n\n\nDe Stridbara Svenskarnas Första Konferens!\n\n\n\n\n\n\n\n\n2024-11-15\n\n\nMagnus Olofsson\n\n\n\n\n\n\n\n\n\n\n\n\nProjektstart!\n\n\n\n\n\n\n\n\n2024-09-11\n\n\nMagnus Olofsson\n\n\n\n\n\nNo matching items",
+    "text": "De Stridbara Svenskarna är igång och annoterar\n\n\n\n\n\n\n\n\n2025-06-27\n\n\nMathias Johansson\n\n\n\n\n\n\n\n\n\n\n\n\nStridbara Svenskar i Stockholm\n\n\n\n\n\n\n\n\n2025-05-10\n\n\nMagnus Olofsson\n\n\n\n\n\n\n\n\n\n\n\n\nDigitalisering av Socialdemokraten\n\n\n\n\n\n\n\n\n2025-04-26\n\n\nAndrés Brink Pinto\n\n\n\n\n\n\n\n\n\n\n\n\nStridbara Svenskar i Leiden\n\n\n\n\n\n\n\n\n2025-04-09\n\n\nMagnus Olofsson\n\n\n\n\n\n\n\n\n\n\n\n\nDe Stridbara Svenskarnas Första Konferens!\n\n\n\n\n\n\n\n\n2024-11-15\n\n\nMagnus Olofsson\n\n\n\n\n\n\n\n\n\n\n\n\nProjektstart!\n\n\n\n\n\n\n\n\n2024-09-11\n\n\nMagnus Olofsson\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "members/andres_brinkpinto.html",
-    "href": "members/andres_brinkpinto.html",
-    "title": "Andrés Brink Pinto",
+    "objectID": "members/magnus_olofsson.html",
+    "href": "members/magnus_olofsson.html",
+    "title": "Magnus Olofsson",
     "section": "",
-    "text": "I primarily study urban histories of gender, sexuality and social movements. Among other things, militant antifascism in the Öresund region c. 1985-2013, youth riots in Stockholm c. 1948-1987 and the policing of homosexuality in Stockholm in the 1950s.\nIn this project work with the theoretical frame, historical analysis of the database and qualitative case studies of urban forms of collective actions."
+    "text": "I am a historian with a PhD from Lund university. My main research topics are political radicalism, popular protest, and repertoires of contention in Swedish 19th and early 20th century. I’m particularly interested in understanding Sweden’s late democratization and the birth of modern, democratic political culture in Sweden.\nI am the PI of The Contentious Swedes project."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "The Contentious Swedes",
+    "objectID": "members/mathias_johansson.html",
+    "href": "members/mathias_johansson.html",
+    "title": "Mathias Johansson",
     "section": "",
-    "text": "The purpose of the project is to deepen the understanding of Sweden’s democratization by examining changes in the political use of public space from 1820 to 1939. The project aims to shed light on the political use of contentious gatherings such as public meetings, election meetings, demonstration marches in public space. The starting point is that public meetings in Sweden in 1820 were forbidden, while they in 1939 not only were permitted, but also that most people then had knowledge of and access to the public space to make politics.\nSomething had changed, what we call the repertoire of contention had assumed a modern, democratic, form. The project is carried out by two researchers and a system developer. It will run for four years. We will work with the Swedish National Library’s corpus of digitized daily newspapers as a source for occurrences of the public, political meetings we are interested in. The task of detecting and extracting data on these events will be performed by a language model (BERT). The data will be entered into a database which will be analyzed quantitatively to track changes in the repertoire of contention, both in overall terms, and in terms of which political groups adopted different parts of the repertoire when.\nThe project is important as it 1) deepens our understanding of how Swedes made politics before, during and after Sweden’s democratization, and 2) it uses digital sources, methods and technologies in a pioneering, new way.\nSvenska"
+    "text": "As a Systems Developer at the Department of Arts and Cultural Sciences I working at different Digital Humanities projects (primarily History), at different capacities.\nIn Contentious Gatherings I am responsible for developing, testing, running and maintaining the systems, databases and Machine Learning models that we use to collect, process and analyse data."
   },
   {
-    "objectID": "blog/ESSHC_2025.html",
-    "href": "blog/ESSHC_2025.html",
-    "title": "Stridbara Svenskar i Leiden",
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Medverkande",
     "section": "",
-    "text": "Den 26 till 29 mars 2025 hölls European Social Science History Conference (ESSHC) på universitetet i Leiden i Nederländerna. Konferensen har gått vartannat år sedan 1996 (dock fick 2020 års konferens senareläggas ett år på grund av Covid-epidemien) och är sedan länge en av de största historiska konferenserna i Europa.\nDe Stridbara svenskarna arrangerade en välbesökt session betitlad “Contentious Politics Studies, Protest Event Analysis, and the Digital Challenge”. Förutom vår egen presentation, som genomfördes av Magnus och Måns, presenterade Marten Düring (som ingår i vår vetenskapliga referensgrupp), Jens Aurich och Taiago Carvalho forskning som kombinerar studiet av sociala rörelser med digitala forskningsmetoder, allt från att använda Python-script för att skrubba Facebook-sidor för att förstå hur sociala rörelser agerar till utmaningar med bristfällig OCR-scanning av tidningssidor till digitala verktyg för annotering.\nEn titt på konferensprogrammet ger vid handen att vårt projekt är i gott sällskap. Att använda digitala verktyg för att fjärrläsa stora mängder historisk text för att lösa vetenskapliga problem är något som är på frammarsch inom historievetenskapen, totalt hölls åtta sessioner på konferens på temat “spatial- och digital historia”. Sammantaget en rätt liten andel av alla sessioner på konferensen, men en som lär växa till nästa gång.\nPå tal om nästa gång, så kommer ESSHC 2027 att gå i Lyon. Vi räknar med att vara där, och vi hoppas att vi då inte bara ska prata om utmaningarna med digital historia, utan också om våra forskningsresultat."
+    "text": "Magnus Olofsson\n\n\nPI\n\n\n\n\n\n\n\n\n\n\n\n\nAndrés Brink Pinto\n\n\nAssociate professor\n\n\n\n\n\n\n\n\n\n\n\n\nMathias Johansson\n\n\nSystemutvecklare\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Medverkande"
+    ]
   },
   {
-    "objectID": "blog/socialdemokraten.html",
-    "href": "blog/socialdemokraten.html",
-    "title": "Digitalisering av Socialdemokraten",
+    "objectID": "blog/doccano.html",
+    "href": "blog/doccano.html",
+    "title": "De Stridbara Svenskarna är igång och annoterar",
     "section": "",
-    "text": "Fram till 1906 är i princip alla svenska dagstidningar digitiserade och fritt tillgängliga via Kungliga bibliotekets databas svenska tidningar. Från 1907 är digitiseringen dock mycket mer fläckvis, och eftersom KB saknar medel för en mer systematisk digitisering är det också ganska ojämnt mellan vilka typer av tidningar som finns tillgängliga. För vårt projekt är det en stor utmaning att Social-Demokraten inte funnits tillgänglig från 1907 och framåt. Tidningen var en av de viktigaste – om inte den viktigaste – socialdemokratiska pressrösterna. Därför har vi under året sökt finansiering för att kunna göra dagstidningen tillgänglig. Tack vare ett generöst bidrag från Åke Wibergs stiftelse har vi nu kunnat finansiera digitisering av perioden 1907–1912. Detta är inte bara viktigt för vårt projekt, utan vi bidrar nu till att tillgängliggöra denna centrala tidning för alla.\nSocialdemokraten i tidningar.kb.se"
+    "text": "Enligt den beprövade maskinlärningstraditionen förbereder vi oss nu intensivt för att kunna skörda frukterna av automatisering: vi annoterar data! Mer specifikt arbetar vi med att reda ut potentiella oklarheter i vår kodbok och våra annoteringsriktlinjer genom att gå igenom slumpmässiga urval från korpusen. Detta har den ytterligare fördelen att vi blir mer bekanta med källmaterialets innehåll, stil och begränsningar. Det största problemet (i min mening) är kvaliteten på OCR-läsningen – som i värsta fall producerar skönheter såsom texten till höger.\n\n\n\nVilket inte direkt rullar av tungan, och i bästa fall är perfekt läsbart. Syftet med denna fas är att samla tillräckligt många annoterade fall för att med säkerhet kunna bedöma prestandan (och vid behov finjustera eller träna) NER-modeller som vi kommer att använda för att extrahera viktiga data: platser, aktörer och tid.\nVi utför annoteringarna i Doccano, ett utmärkt open-source-verktyg för att annotera dataset för maskininlärning. Doccano underlättar olika former av annoteringstyper, såsom bildklassificering och ritning av avgränsningsrutor, eller textklassificering och märkning av textomfång (vilket är vad vi för närvarande gör): att rita textomfång för att välja vilka tecken och ord som ingår i någon av de olika entiteterna."
   },
   {
     "objectID": "blog/project_start.html",
@@ -62,6 +65,20 @@
     "text": "Den 23 april var jag på ett fint arrangerat seminarium på Historiska institutionen vid Stockholms universitet, dit jag blivit inbjuden av Mats Hallenberg för att prata om min forskning i allmänhet och De stridbara svenskarna i synnerhet. Titel på min presentation var “Från tidigmodern till modern: Politisk bråkighet under Sveriges långa 1800-tal (1789–1921)”.\nMin utgångspunkt var den större debatt om hur relationen mellan undersåtar och överhet har sett ut i Sverige från Dackefejden till Saltsjöbaden, där i modern tid inte minst Eva Österberg har tonat ned förekomsten av politiskt våld och hävdat att “[h]istorien uppifrån och ned har färgats av föreställningar om lag och rätt, ömsesidighet och respektabilitet” - i ett par texter har hon argumenterat för att “svenska modellen” med sin förhandlingskultur går att spåra hela vägen bak till Vasatiden.\nJag tillhör dem som har argumenterat för att Österberg har fel i detta, och att Sveriges förflutna, i alla fall när vi talar om det långa 1800-talet, snarare var ett land präglat av skarpa sociala konflikter och återkommande politiska våldsamheter. Det är också slående att Sverige under denna tid var ett av Europas minst demokratiska länder och att de stora reformerna av det politiska systemet (1865 och 1918) bägge gick igenom i riksdagen under akut revolutionshot.\nEn viktigt poäng med De stridbara svenskarna är att vi kommer att kunna ge en god bild av det politiska våldet i Sverige före, under och efter Sveriges demokratisering, av allt från brödupplopp till elefantupplopp till strejkrelaterat kollektivt våld. Min förhoppning är att vi därmed ska kunna sätta punkt för “Österbergdebatten”, i alla fall när det gäller vår undersökningsperiod, genom att visa inte bara att svenskarna var bråkiga, utan också hur bråkiga de var, vilka det var som bråkade och varför de bråkade. Vi kommer också att kunna vända på myntet, och titta på ordningsmaktens våld mot mer eller mindre bråkiga folksamlingar – hur många svenskar dödades och sårades av den svenska staten under sin långa kamp för mänskliga rättigheter? Och när vi väl har fått klart det för oss, tänker jag också att det kan vara läge att skriva en större syntes om vilken plats uppror, revolter och andra våldsamheter har haft i Sveriges förflutna och vad det i sin tur säger om landets politiska kultur från Dackefejden till Saltsjöbaden. Jag avslutade min presentation med att skissa upp förutsättningarna för en sådan syntes."
   },
   {
+    "objectID": "blog/ESSHC_2025.html",
+    "href": "blog/ESSHC_2025.html",
+    "title": "Stridbara Svenskar i Leiden",
+    "section": "",
+    "text": "Den 26 till 29 mars 2025 hölls European Social Science History Conference (ESSHC) på universitetet i Leiden i Nederländerna. Konferensen har gått vartannat år sedan 1996 (dock fick 2020 års konferens senareläggas ett år på grund av Covid-epidemien) och är sedan länge en av de största historiska konferenserna i Europa.\nDe Stridbara svenskarna arrangerade en välbesökt session betitlad “Contentious Politics Studies, Protest Event Analysis, and the Digital Challenge”. Förutom vår egen presentation, som genomfördes av Magnus och Måns, presenterade Marten Düring (som ingår i vår vetenskapliga referensgrupp), Jens Aurich och Taiago Carvalho forskning som kombinerar studiet av sociala rörelser med digitala forskningsmetoder, allt från att använda Python-script för att skrubba Facebook-sidor för att förstå hur sociala rörelser agerar till utmaningar med bristfällig OCR-scanning av tidningssidor till digitala verktyg för annotering.\nEn titt på konferensprogrammet ger vid handen att vårt projekt är i gott sällskap. Att använda digitala verktyg för att fjärrläsa stora mängder historisk text för att lösa vetenskapliga problem är något som är på frammarsch inom historievetenskapen, totalt hölls åtta sessioner på konferens på temat “spatial- och digital historia”. Sammantaget en rätt liten andel av alla sessioner på konferensen, men en som lär växa till nästa gång.\nPå tal om nästa gång, så kommer ESSHC 2027 att gå i Lyon. Vi räknar med att vara där, och vi hoppas att vi då inte bara ska prata om utmaningarna med digital historia, utan också om våra forskningsresultat."
+  },
+  {
+    "objectID": "blog/socialdemokraten.html",
+    "href": "blog/socialdemokraten.html",
+    "title": "Digitalisering av Socialdemokraten",
+    "section": "",
+    "text": "Fram till 1906 är i princip alla svenska dagstidningar digitiserade och fritt tillgängliga via Kungliga bibliotekets databas svenska tidningar. Från 1907 är digitiseringen dock mycket mer fläckvis, och eftersom KB saknar medel för en mer systematisk digitisering är det också ganska ojämnt mellan vilka typer av tidningar som finns tillgängliga. För vårt projekt är det en stor utmaning att Social-Demokraten inte funnits tillgänglig från 1907 och framåt. Tidningen var en av de viktigaste – om inte den viktigaste – socialdemokratiska pressrösterna. Därför har vi under året sökt finansiering för att kunna göra dagstidningen tillgänglig. Tack vare ett generöst bidrag från Åke Wibergs stiftelse har vi nu kunnat finansiera digitisering av perioden 1907–1912. Detta är inte bara viktigt för vårt projekt, utan vi bidrar nu till att tillgängliggöra denna centrala tidning för alla.\nSocialdemokraten i tidningar.kb.se"
+  },
+  {
     "objectID": "blog/first_conference.html",
     "href": "blog/first_conference.html",
     "title": "De Stridbara Svenskarnas Första Konferens!",
@@ -69,38 +86,21 @@
     "text": "Den 7 och 8 november 2024 hölls 6th Digital History in Sweden konferensen på Linnéuniversitetet i Växjö. Det var alltså sjätte gången digitalhistoriskt intresserade historiker (och andra) i Sverige samlades till en konferens för att utbyta erfarenheter och nätverka. Spännvidden mellan presentationerna var stor, och täckte allt från att använda generativ AI i undervisningen till digital medborgarforskning, från digitala arkiv till digitala metoder i forskningen.\nFrån de Stridbara svenskarna deltog jag (Magnus) och Mathias tillsammans med Måns från det snarlika projektet Från politisk apati till demokrati som vi sedan i våras samarbetar med. Vi presenterade vårt pågående arbete under titeln “Repertoires of contention and democratization in Sweden. Early challenges and results”. Vi berättade om projektets utgångspunkter, arbetet med vår kodbok (i sociologisk mening, inte programmeringsmening) samt om våra tidiga experiment med en ny Llama3-baserad pipeline.\nNästa konferens för De Stridbara svenskarna blir European Social Science History Conference som går i Leiden i slutet av mars 2025."
   },
   {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Medverkande",
+    "objectID": "om.html",
+    "href": "om.html",
+    "title": "De stridbara svenskarna",
     "section": "",
-    "text": "Magnus Olofsson\n\n\nPI\n\n\n\n\n\n\n\n\n\n\n\n\nAndrés Brink Pinto\n\n\nAssociate professor\n\n\n\n\n\n\n\n\n\n\n\n\nMathias Johansson\n\n\nSystemutvecklare\n\n\n\n\n\nNo matching items",
+    "text": "Syftet med projektet är att fördjupa förståelsen av Sveriges demokratisering genom att undersöka förändringar av det politiska bruket av det offentliga rummet 1820 till 1939. Utgångspunkt för projektet är att offentliga möten i Sverige år 1820 var förbjudna, och kunde mötas med militärt våld. Men år 1939 var offentliga möten inte bara var tillåtna, utan många människor i Sverige hade då hade kunskap om och tillgång till det offentliga rummet för att göra politik. Hur denna process gick till, när de stora förändringar kom, om det fanns geografiska skillnader, och vilka grupper som var innovatörer, är inte känt. Det är det vi vill undersöka.\nVårt projekt tar hjälp av digitala metoder (en “AI”) för att leta igenom Kungliga bibliotekets digitaliserade dagstidningar efter olika typer av offentliga möten, allt från upplopp till folkmöten till demonstrationståg. Vi vill på det sättet komma åt förändring, hur och när det vi kallar för en konfliktrepertoar antog en demokratisk och modern form i Sverige. Vi kommer att kunna se saker som folkmötets uppgång och nedgång i tid, valmötets roll (eller icke-roll) i det politiska livet och hur demonstrationståget gick från udda fågel till självklarhet. Projektet är viktigt av två anledningar. För det första kommer det att fördjupa vår förståelse för hur vanliga människor gjort politik och hur detta förändrats, och därigenom kommer vi bidra med kunskap om Sveriges demokratisering. För det andra kommer projektet att använda digitala källor, metoder och teknologier på ett banbrytande, nytt sätt.\nDen nya kunskap projektet skapar är betydelsefullt dels för att den kan fördjupa dagens diskussioner och samtal om vår demokrati, dels för att den testar och utvecklar sätt att använda digitala metoder och teknik som kan inspirera även andra historiker. Projektet kommer också att mynna ut i en databas som kommer att göras allmänt tillgänglig.\nEnligh summary",
     "crumbs": [
-      "Medverkande"
+      "Om projektet"
     ]
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Research outputs",
+    "objectID": "members/andres_brinkpinto.html",
+    "href": "members/andres_brinkpinto.html",
+    "title": "Andrés Brink Pinto",
     "section": "",
-    "text": "Publikationer och forskningsresultat kommer presentaras här.\nDe Stridbara Svenskarna kommer huvudsakligen använda sig av material från Kungliga Bibliotekets tidningsdatabas i kombination med allmänt tillgängliga modeller i arbetet för att kartlägga demokratiseringen i Sverige 1820-1939.\nAll kod, alla modeller och alla dataset som vi kan dela kommer dyka upp här och på GitHub.",
-    "crumbs": [
-      "Publikationer"
-    ]
-  },
-  {
-    "objectID": "members/mathias_johansson.html",
-    "href": "members/mathias_johansson.html",
-    "title": "Mathias Johansson",
-    "section": "",
-    "text": "As a Systems Developer at the Department of Arts and Cultural Sciences I working at different Digital Humanities projects (primarily History), at different capacities.\nIn Contentious Gatherings I am responsible for developing, testing, running and maintaining the systems, databases and Machine Learning models that we use to collect, process and analyse data."
-  },
-  {
-    "objectID": "members/magnus_olofsson.html",
-    "href": "members/magnus_olofsson.html",
-    "title": "Magnus Olofsson",
-    "section": "",
-    "text": "I am a historian with a PhD from Lund university. My main research topics are political radicalism, popular protest, and repertoires of contention in Swedish 19th and early 20th century. I’m particularly interested in understanding Sweden’s late democratization and the birth of modern, democratic political culture in Sweden.\nI am the PI of The Contentious Swedes project."
+    "text": "I primarily study urban histories of gender, sexuality and social movements. Among other things, militant antifascism in the Öresund region c. 1985-2013, youth riots in Stockholm c. 1948-1987 and the policing of homosexuality in Stockholm in the 1950s.\nIn this project work with the theoretical frame, historical analysis of the database and qualitative case studies of urban forms of collective actions."
   },
   {
     "objectID": "contact.html",
@@ -108,5 +108,12 @@
     "title": "Kontakt",
     "section": "",
     "text": "E-post \nLund University Research Portal De Stridbara Svenskarna\nGithub: @contentiousgatherings"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "The Contentious Swedes",
+    "section": "",
+    "text": "The purpose of the project is to deepen the understanding of Sweden’s democratization by examining changes in the political use of public space from 1820 to 1939. The project aims to shed light on the political use of contentious gatherings such as public meetings, election meetings, demonstration marches in public space. The starting point is that public meetings in Sweden in 1820 were forbidden, while they in 1939 not only were permitted, but also that most people then had knowledge of and access to the public space to make politics.\nSomething had changed, what we call the repertoire of contention had assumed a modern, democratic, form. The project is carried out by two researchers and a system developer. It will run for four years. We will work with the Swedish National Library’s corpus of digitized daily newspapers as a source for occurrences of the public, political meetings we are interested in. The task of detecting and extracting data on these events will be performed by a language model (BERT). The data will be entered into a database which will be analyzed quantitatively to track changes in the repertoire of contention, both in overall terms, and in terms of which political groups adopted different parts of the repertoire when.\nThe project is important as it 1) deepens our understanding of how Swedes made politics before, during and after Sweden’s democratization, and 2) it uses digital sources, methods and technologies in a pioneering, new way.\nSvenska"
   }
 ]
