@@ -1,0 +1,42 @@
+---
+title: Contested Streets
+author: Magnus Olofsson
+date: 2025-09-23
+image: /assets/images/contested_streets.png
+---
+
+Nyligen publicerades en artikel som inte riktigt har tillkommit i det här
+projektet, men som är skriven av mig inom ramen för samma forskningstradition:
+[Contested Streets. Demonstrations in Stockholm, 1887–1920](https://www.vr-elibrary.de/doi/epdf/10.7788/mots.2025.75.61),
+publicerad i tidskriften Moving the Social (2025 no. 75:1). Artikeln bygger på
+en genomgång av ansökningar om att få genomföra demonstrationståg och liknade
+(marscher, tåg) i Stockholm under de år som striden om att demokratisera
+Sverige var som mest intensiv. Arbetet med artikeln börjades långt innan De
+stridbara svenskarna fick finansiering av Vetenskapsrådet, men springer ur
+samma forskningstradition och kunskapsintresse. Vi kommer också att använda det
+dataset som artikeln bygger på för att validera vår digitala pipeline.
+
+Artikeln visar hur intresset för att framföra politiska anspråk på Stockholms
+gator förändrades under undersökta perioden. Demonstrationer ingick i
+protestrepertoaren i Stockholm redan 1887. Efter en nedgång under 1890-talet
+ökade aktiviteten stadigt under 1900-talet och återigen under 1910-talet. Datan
+visar att arbetarrörelsen, väckelserörelsen och nykterhetsrörelsen anordnade
+nästan alla politiska marscher i huvudstaden. Liberaler och konservativa var
+däremot tämligen ointresserade av att framför anspråk i gaturummet under
+marsch. Även om Stockholms myndigheter godkände de flesta ansökningar om att få
+demonstrera, så avslog de också en del ansökningar hela vägen fram till 1920.
+Det var framförallt arbetarrörelsen och Frälsningsarmén som inte fick
+tillstånd.
+
+Undersökningen väcker frågor som vi hoppas kunna svara på inom ramen för De
+stridbara svenskarna. Det handlar bland annat om vad som hände före 1887, när
+och hur svenskarna lärde sig det moderna demonstrationståget. Var det de tidiga
+socialistiska organisationerna i Stockholm som var först ut? Eller var det
+nykterhetsrörelsen uti i småstäderna? Och exakt när anammade Sveriges liberaler
+och konservativa demonstrationståget?
+
+Den här undersökningen illustrerar hur fruktbar den historisk-sociologiska
+forskningstradition som vårt projekt ingår i är när det gäller att undersöka
+långsiktiga förändringar av konfliktrepertoaren. Om ett ganska litet dataset
+framtaget en ensam forskare kan generera så mycket ny kunskap vad ska då vårt
+dataset baserat på 1,6 miljoner tidningssidor inte kunna säga oss?
