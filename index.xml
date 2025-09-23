@@ -9,8 +9,29 @@
 <link>https://www.contentiousgatherings.se/</link>
 <atom:link href="https://www.contentiousgatherings.se/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 27 Jun 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Tue, 23 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Contested Streets</title>
+  <dc:creator>Magnus Olofsson</dc:creator>
+  <link>https://www.contentiousgatherings.se/blog/contested_streets.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Nyligen publicerades en artikel som inte riktigt har tillkommit i det här projektet, men som är skriven av mig inom ramen för samma forskningstradition: <a href="https://www.vr-elibrary.de/doi/epdf/10.7788/mots.2025.75.61">Contested Streets. Demonstrations in Stockholm, 1887–1920</a>, publicerad i tidskriften Moving the Social (2025 no. 75:1). Artikeln bygger på en genomgång av ansökningar om att få genomföra demonstrationståg och liknade (marscher, tåg) i Stockholm under de år som striden om att demokratisera Sverige var som mest intensiv. Arbetet med artikeln börjades långt innan De stridbara svenskarna fick finansiering av Vetenskapsrådet, men springer ur samma forskningstradition och kunskapsintresse. Vi kommer också att använda det dataset som artikeln bygger på för att validera vår digitala pipeline.</p>
+<p>Artikeln visar hur intresset för att framföra politiska anspråk på Stockholms gator förändrades under undersökta perioden. Demonstrationer ingick i protestrepertoaren i Stockholm redan 1887. Efter en nedgång under 1890-talet ökade aktiviteten stadigt under 1900-talet och återigen under 1910-talet. Datan visar att arbetarrörelsen, väckelserörelsen och nykterhetsrörelsen anordnade nästan alla politiska marscher i huvudstaden. Liberaler och konservativa var däremot tämligen ointresserade av att framför anspråk i gaturummet under marsch. Även om Stockholms myndigheter godkände de flesta ansökningar om att få demonstrera, så avslog de också en del ansökningar hela vägen fram till 1920. Det var framförallt arbetarrörelsen och Frälsningsarmén som inte fick tillstånd.</p>
+<p>Undersökningen väcker frågor som vi hoppas kunna svara på inom ramen för De stridbara svenskarna. Det handlar bland annat om vad som hände före 1887, när och hur svenskarna lärde sig det moderna demonstrationståget. Var det de tidiga socialistiska organisationerna i Stockholm som var först ut? Eller var det nykterhetsrörelsen uti i småstäderna? Och exakt när anammade Sveriges liberaler och konservativa demonstrationståget?</p>
+<p>Den här undersökningen illustrerar hur fruktbar den historisk-sociologiska forskningstradition som vårt projekt ingår i är när det gäller att undersöka långsiktiga förändringar av konfliktrepertoaren. Om ett ganska litet dataset framtaget en ensam forskare kan generera så mycket ny kunskap vad ska då vårt dataset baserat på 1,6 miljoner tidningssidor inte kunna säga oss?</p>
+
+
+
+ ]]></description>
+  <guid>https://www.contentiousgatherings.se/blog/contested_streets.html</guid>
+  <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://www.contentiousgatherings.se/assets/images/contested_streets.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>De Stridbara Svenskarna är igång och annoterar</title>
   <dc:creator>Mathias Johansson</dc:creator>
