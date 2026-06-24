@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Andrés Brink Pinto">
+<meta name="dcterms.date" content="2026-06-24">
 
-<title>Medverkande – Contentious Gatherings</title>
+<title>Från databas till kvalitativ studie – Contentious Gatherings</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,21 +28,19 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-834deb38e369fed49f871fe4731b7fc3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-834deb38e369fed49f871fe4731b7fc3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -56,67 +56,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-lists .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-lists'] = new List('listing-lists', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-sidebar docked quarto-light">
@@ -128,7 +70,9 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./members.html">Medverkande</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">
+      Contentious Gatherings
+      </li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -140,32 +84,32 @@ window.Quarto = {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Contentious Gatherings</a> 
+      <a href="../">Contentious Gatherings</a> 
     </div>
       </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Home</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./om.html" class="sidebar-item-text sidebar-link">
+  <a href="../om.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Om projektet</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./members.html" class="sidebar-item-text sidebar-link active">
+  <a href="../members.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Medverkande</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./publications.html" class="sidebar-item-text sidebar-link">
+  <a href="../publications.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Publikationer</span></a>
   </div>
 </li>
@@ -182,14 +126,26 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Medverkande</h1>
+<h1 class="title">Från databas till kvalitativ studie</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Andrés Brink Pinto </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 24, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -199,66 +155,14 @@ window.Quarto = {
 </header>
 
 
-<div class="grid">
+<p><strong>Från databas till kvalitativ studie – marknadsupploppet i Skärsta 1869 som exempel</strong> Ett syfte med projektet De stridbara svenskarna är inspirera till ny forskning om protesthändelser och kollektiva konfrontationer i Sverige under det långa 1800-talet. Ett sätt för oss att nå det syftet är att bygga ett interaktiv och lättillgängligt gränssnitt till vår databas över alla så kallade protesthändelser i Sverige. I nuläget har vi via handkodning och en automatiserade pipeline för datainsamling börjat bygga databasen, men den är i skrivande stund varken särskilt interaktiv eller lättillgänglig.</p>
+<p>Under arbetet med att sammanställa databasen har vi också behövt arbeta med definitioner och gränsdragningar. Eftersom vårt projekt i huvudsak vill undersöka mönster i etablerandet av en modern politisk kultur har vi i detta skede valt att avgränsa mot den typ av kollektiva konfrontationer som ofta beskrivs som i avsaknad av mening (på engelska är termen Issueless riots.) Det är en rimlig avgränsning för att hantera en mycket stor datamängd, men det gör att vi också har genererat data om en rad potentiellt mycket spännande händelser som inte kommer att inkluderas i vår första version av databasen. För att samla upp det vi har kommer vi att publicera en separat databas med arbetsnamn ”upploppsdatabasen”. I huvudsak bygger denna databas på de våldsamma kollektiva konfrontationer som finns beskrivna i den tidigare forskningen, men vi kommer att komplettera med framförallt handkodade data från tidningar.</p>
+<p>Vår förhoppning är att till exempel uppsatsstudenter i jakt på uppslag och studieobjekt ska kunna använda databasen för att identifiera intressanta händelser att undersöka med historievetenskaplig teori och metod. Ett exempel på vad som finns i databasen är de stora marknadsupploppen i Skästra/Skärstra/Skärstrad. Skärstra är en mindre ort i Järvsö socken nära Hudiksvall. Eftersom det fanns en förhistoria av oroligheter vid marknader och så kallade likvidationsmöten hade kronofogden Winter rekvirerat en styrka om femtio militärer för att hålla ordningen under den marknad som genomfördes under mars 1869. Närvaron av militär verkar dock inte alls lett till ordning, utan snarare fungerat eskalerande. Ett hårdhänt ingripande mot en piga som sålde kaffe och alkohol ledde till allvarliga konfrontationer mellan militären och en folkmassa. I oroligheterna avlossades det skarpa skott från båda sidor, flera personer skadades allvarligt och militären använde även sina gevärskolvar för att misshandla personer ur folkmassan. Händelsen är rikligt beskriven genom tidningsrapportering, inte minst genom refererat från den omfattande rättegång som genomfördes senare under 1869. Extra intressant är att kronofogden åtalades, och senare dömdes. Händelsen har med andra ord genererat ett rättegångsmaterial som förefaller utförligt.</p>
+<p>Även om händelsen till viss del är beskriven i Bunny Ragnerstams Arbetare i rörelse (1987) så saknar Ragnerstams framställning en teoretisk ram så väl som analytiska begrepp. Här behövs med andra ord en ordentlig genomlysning. Det är tydligt att händelsen lämpar sig väl för att undersöka med analytiska begrepp och en teoretisk ram från CPS-traditionen (en <a href="http://journals.lub.lu.se/index.php/scandia/article/view/15862/14348">introduktion finns i Scandia 2015:1</a>). Vidare finns det högst relevanta frågor att ställa om upploppsdeltagarnas världsbild och förståelse av sina handlingar. Att ta till skarpa skott mot en större militärkommendering, som dessutom var beredd att använda potentiellt dödligt våld, är så klart en hög tröskel att kliva över. Så vad fick ändå människor i Skärstra att göra detta? Här finns ett klassiskt spår i kulturhistoriskt influerad arbetarhistorisk forskning att följa, med E P Thompsons banbrytande artikel The moral economy of the English crowd in the Eighteenth century som uppenbart startpunkt.</p>
 
-</div>
 
 
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-lists">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1782300215632" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
-<a href="./members/magnus_olofsson.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./assets/images/Magnus.jpg" class="thumbnail-image card-img" style="height: 250px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Magnus Olofsson
-</h5>
-<div class="card-subtitle listing-subtitle">
-PI
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1782300215632" data-listing-reading-time-sort="1" data-listing-word-count-sort="60">
-<a href="./members/andres_brinkpinto.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./assets/images/Andres.jpg" class="thumbnail-image card-img" style="height: 250px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Andrés Brink Pinto
-</h5>
-<div class="card-subtitle listing-subtitle">
-Associate professor
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1782300215632" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
-<a href="./members/mathias_johansson.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./assets/images/Mathias.png" class="thumbnail-image card-img" style="height: 250px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Mathias Johansson
-</h5>
-<div class="card-subtitle listing-subtitle">
-Systemutvecklare
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -663,7 +567,7 @@ Systemutvecklare
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><a href="https://vr.se"><img src="./assets/images/logo-en-vr.png" class="img-fluid"></a></p>
+<p><a href="https://vr.se"><img src="../assets/images/logo-en-vr.png" class="img-fluid"></a></p>
 </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
@@ -682,20 +586,20 @@ Systemutvecklare
 </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml">
+    <a class="nav-link" href="../index.xml">
       <i class="bi bi-rss" role="img">
 </i> 
     </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./contact.html">
+    <a class="nav-link" href="../contact.html">
 <p>Kontakt</p>
 </a>
   </li>  
 </ul>
     </div>
     <div class="nav-footer-right">
-<p><a href="https://lu.se"><img src="./assets/images/logo-en-lund.png" class="img-fluid"></a></p>
+<p><a href="https://lu.se"><img src="../assets/images/logo-en-lund.png" class="img-fluid"></a></p>
 </div>
   </div>
 </footer>
