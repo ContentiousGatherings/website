@@ -6,8 +6,7 @@ image: /assets/images/2024_DH6SWE_kuben.jpg
 ---
 
 **Den 7 och 8 november 2024 hölls [6th Digital History in Sweden](
-https://web.archive.org/web/20240622231813/https://lnu.se/en/meet-linnaeus-university/current/events/2024/conferences/6th-digital-history-in-sweden-conference-unboxing-digital-methods-practices-and-public-engagement/
-    )** konferensen på
+https://web.archive.org/web/20240622231813/https://lnu.se/en/meet-linnaeus-university/current/events/2024/conferences/6th-digital-history-in-sweden-conference-unboxing-digital-methods-practices-and-public-engagement/)** konferensen på
 Linnéuniversitetet i Växjö. Det var alltså sjätte gången digitalhistoriskt
 intresserade historiker (och andra) i Sverige samlades till en konferens för
 att utbyta erfarenheter och nätverka. Spännvidden mellan presentationerna var
