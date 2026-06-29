@@ -10,7 +10,29 @@
 <atom:link href="https://www.contentiousgatherings.se/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Wed, 24 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>De stridbara svenskarna på Svenska Historikermötet</title>
+  <dc:creator>Magnus Olofsson</dc:creator>
+  <link>https://www.contentiousgatherings.se/blog/De stridbara svenskarna på Svenska Historikermötet.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>De stridbara svenskarna på Svenska Historikermötet</strong></p>
+<p>I början av maj samlades över 400 svenska historiker på Orkanen i Malmö för det tionde Svenska historikermötet. Vårt projekt var med på två programpunkter. För det första var ett rundabordssamtal där jag, Måns Lundstedt (GU), Nils Edling (SU) och Alvar Atterving-Blomgren (SU) talade om ”Att studera folkets politiska aktivitet via tidningarna 1840—1940”. Samtalet kretsade king möjligheter och utmaningar med att jobba med stora mängder digitiserade tidningar, bland annat dålig OCR, bristande artikelsegmentera och att arbeta mot tjänster som tillhandahålls av kulturarvsförvaltande myndigheter som Kungliga biblioteket och som inte alltid sätter forskares behov i första rummet när de designar sina tjänster.</p>
+<p>För det andra var vi med på sessionen ”Konfliktrepertoar i förändring, Sverige 1848–1975” som vi själva arrangerade. Förutom vår egen session presenterade Martin Ericsson (LU) om skogskonflikter i mitten på 1800-talet, Gustav Svensson (MAU) om högerns och vänsterns konfliktrepertoar i Lund och Malmö runt 1968 samt Måns Lundstedt (GU) om arbetarrörelsens och nykterhetsrörelsens förstamajtåg runt år 1900. Det två förra kan ses som mer traditionella (i svensk historisk forskning) med fokus på några enskilda fall medan den senare ligger närmare vår egen forskning, med fokus på händelsekataloger och förändring över längre tidsspann.</p>
+<p>Vår egen presentation. Folkmötets uppgång och fall i svensk konfliktrepertoar 1848–1912, byggde på ett litet pilotdataset som vi arbetat med i vår. Vår digitala pipeline har samlat in 1449 (från ett strategiskt urval av sex tidningar) med hjälp av sökordet ”folkmöte*” som vi tillsammans med våra amanuenser och studentmedarbetare gjorde om till en händelsekatalog med 771 unika protesthändelser. Materialet i sig är för litet för att vi ska kunna dra några större slutsatser av det, men arbetet med piloten gav oss en större förståelse för vår pipelines styrkor och svagheter och gav oss också ett intyg på vårt system med lite finjusteringar kommer att genera bra data.</p>
+<p>När vi sammanställde datan och jämförde den med vad vi vet om folkmöten genom tidigare forskning kunde vi dock med den reservationen ändå se att vi redan med bara sex tidningar kunde fånga delar av tidigare kända temporala och geografiska mönster. Under hösten 2026 kommer vi att fokusera på att samla in och analysera data om just folkmöten.</p>
+
+
+
+ ]]></description>
+  <guid>https://www.contentiousgatherings.se/blog/De stridbara svenskarna på Svenska Historikermötet.html</guid>
+  <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://www.contentiousgatherings.se/assets/images/Folkmötesgraf.png" medium="image" type="image/png" height="75" width="144"/>
+</item>
 <item>
   <title>Från databas till kvalitativ studie</title>
   <dc:creator>Andrés Brink Pinto</dc:creator>
@@ -289,7 +311,8 @@ främ"></p>
 
 
 
-<p><strong>Så är vi igång på allvar då</strong>, med vårt forskningsprojekt <em>De stridbara svenskarna: Konfliktrepertoarer och demokratisering i Sverige, 1820–1939</em> (VR2023-01365). Projektet syftar till att fördjupa förståelsen av Sveriges demokratisering genom att undersöka förändringar av det politiska bruket av det offentliga rummet. Kort sagt vill vi kartlägga och analysera den process varunder människor i Sverige lärde sig att framföra politiska krav på olika typer av offentliga möten som folkmöten, valmöten och demonstrationståg och samtidigt se vad som hände med äldre, etablerade sätt att framföra politiska krav på som hungerkravaller och beslagupplopp.</p>
+<p><strong>Så är vi igång på allvar då</strong>, med vårt forskningsprojekt <em>De stridbara svenskarna: Konfliktrepertoarer och demokratisering i Sverige, 1820–1939</em> (VR2023-01365).</p>
+<p>Projektet syftar till att fördjupa förståelsen av Sveriges demokratisering genom att undersöka förändringar av det politiska bruket av det offentliga rummet. Kort sagt vill vi kartlägga och analysera den process varunder människor i Sverige lärde sig att framföra politiska krav på olika typer av offentliga möten som folkmöten, valmöten och demonstrationståg och samtidigt se vad som hände med äldre, etablerade sätt att framföra politiska krav på som hungerkravaller och beslagupplopp.</p>
 <p>I projektet kombinerar vi ett sedan länge etablerat arbetssätt inom den (historiska) sociologin, att kartlägga stora mängder protesthändelser som nämns i tidningar och föra in dem i databaser, med nya digitalhistoriska arbetssätt: Istället för att som av hävd anställa ett stort antal assistenter som läser och kodar ett urval av dagstidningar för att hitta protesthändelser kommer vi att skrapa (eller fjärrläsa om man så vill) hela Svenska tidningar, över sju miljoner tidningssidor, som vi sedan tränar upp en modell för djupinlärning för att fånga in det vi letar efter. Datan förs sedan över till en databas, vilken kommer att ligga till grund för våra analyser av förändringen av den svenska konfliktrepertoaren under vår undersökningsperiod.</p>
 <p>Så här i början av projektet fokuserar vårt arbete på 1) det traditionella (historiskt-)sociologiska arbetet med söksträng och kodbok, 2) det nya digitalhistoriska arbetet med att sätta upp och träna upp vår modell.</p>
 <p>Det hela handlar i mångt och mycket att se till att vi hittar så mycket som möjligt av det vi vill hitta (exempelvis demonstrationståg) och så lite som möjligt av det vi inte vill hitta (exempelvis demonstrationer av tröskverk).</p>
